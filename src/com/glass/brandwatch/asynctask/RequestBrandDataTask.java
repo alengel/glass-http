@@ -11,7 +11,7 @@ import org.apache.http.message.BasicNameValuePair;
 import android.os.AsyncTask;
 import android.util.Log;
 
-import com.glass.brandwatch.utils.HttpRequest;
+import com.glass.brandwatch_shared.utils.HttpRequest;
 
 public class RequestBrandDataTask extends AsyncTask<String, Void, Boolean> {
 
