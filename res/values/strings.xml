@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brandwatch</string>
+    <string name="voicedemo_screen_content">Say something</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="voice_activity">Say product here</string>
+    <string name="taking_picture_activity">Take picture here</string>
+    
+    <string name="voice_content">You\'re looking for </string>
+    <string name="taking_picture_content">Taking a picture</string>
+
+    <!-- For voice input -->
+    <string name="voice_trigger">find reviews</string>
+    <string name="voice_prompt">what\'s your product?</string>
+    
+    <string name="activate_voice">a product name</string>
+    <string name="activate_picture">an image</string>
+</resources>
